@@ -13,3 +13,8 @@ function dividir (a,b){
     return a/b;
 console.log(dividir(4,2));
 }
+let areaTriangulo = function(a,b){
+    return a*b/2;
+
+}
+console.log();
