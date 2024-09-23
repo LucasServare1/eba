@@ -18,6 +18,6 @@ let areaTriangulo = function(a,b){
 
 }
 console.log(areaTriangulo);
-let nome= prompt('?');
+let nome= parseInt (prompt('?'));
 document.write(nome);
-parseInt (prompt('?'));
+.
