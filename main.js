@@ -20,4 +20,4 @@ let areaTriangulo = function(a,b){
 console.log(areaTriangulo);
 let nome= parseInt (prompt('?'));
 document.write(nome);
-.
+
