@@ -31,3 +31,10 @@ for (let i = 0; i < estados.length; i++) {
     console.log (estados[i]);
 }
 let idade = 69;
+if (idade>17){
+    console.log ('já pode dirigir')
+
+}
+else {
+    console.log ('ilegal dirigir')
+}
